@@ -17,7 +17,7 @@ After the modifications are applied, a new set of descriptive texts is generated
 
 ## Dataset Creation Process
 ![alt text](sv.jpeg)
-## Results of Fine-Tuning [instruct-pix2pix] (https://github.com/timothybrooks/instruct-pix2pix) with Our Dataset
+## Results of Fine-Tuning [Instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) with Our Dataset
 
 
 
