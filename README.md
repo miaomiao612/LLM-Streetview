@@ -15,10 +15,9 @@ For each street view image, there is a corresponding set of modification instruc
   
 After the modifications are applied, a new set of descriptive texts is generated to reflect the altered street view images. This section also contains 15,000 new descriptions that capture the changes made to each street view image, providing a comprehensive narrative of the modifications.
 
-
 ## Dataset Creation Process
 ![alt text](sv.jpeg)
+## Results of Fine-Tuning [instruct-pix2pix] (https://github.com/timothybrooks/instruct-pix2pix) with Our Dataset
 
-## Model Fine-Tuning with instruct-pix2pix
 
 
