@@ -17,7 +17,7 @@ After the modifications are applied, a new set of descriptive texts is generated
 
 
 ## Dataset Creation Process
-![alt text](/sv.jepg)
+![alt text](./sv.jepg)
 
 ## Model Fine-Tuning with instruct-pix2pix
 
